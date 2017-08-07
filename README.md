@@ -12,7 +12,7 @@
 -Send HTTP Get to localhost:9999/user/model, use response data model to work in this project. <br/>
 
 # Contributing
--If this project help you, clicking Start button will help author happy. <br/>
+-If this project help you, clicking Star button will help author happy. <br/>
 -If you have any question, just open an issue. <br/>
 -If you want to add or modify anything please fork it and create pull request.
 
